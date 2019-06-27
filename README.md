@@ -20,3 +20,8 @@ For this stage, I trained two model on a 68,000 dataset of alphanumeric characte
 https://www.youtube.com/watch?v=DvYvsZCbrpE
 
 https://www.youtube.com/watch?v=qpO4k03Yac8
+
+Programming Language: Python.
+Software tools and libraries: Keras, Tensorflow, Opencv, Numpy, Sci-kit learn.
+Training Hardware: 12-core I7, 16GB RAM, Nvidia GeForce RTX 2080 Ti 11GB.
+Deployement Hardware: I5, 8GB RAM, 2GB Nvidia Graphics.
